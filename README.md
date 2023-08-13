@@ -1,4 +1,4 @@
-# Iosevka Curly WebFont 26.0.2
+# Iosevka Curly WebFont 26.1.0
 
 ## How to use
 
